@@ -9,7 +9,7 @@ import MovieList from "./components/MovieList.jsx";
 import NowPlay from "./components/NowPlay.jsx";
 
 function App() {
-  const name = "Basename";
+  const name = "Hashrouter with Links";
 
   return (
     <>
