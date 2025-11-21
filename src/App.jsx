@@ -9,7 +9,7 @@ import MovieList from "./components/MovieList.jsx";
 import NowPlay from "./components/NowPlay.jsx";
 
 function App() {
-  const name = "Hashrouter with Links";
+  const name = "Hashrouter with Navbar Links";
 
   return (
     <>
